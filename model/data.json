@@ -1,0 +1,540 @@
+{
+    "fruits": [
+        {
+            "name": "Banana",
+            "taste": "Sweet",
+            "img": "https://cdn1.sph.harvard.edu/wp-content/uploads/sites/30/2018/08/bananas-1354785_1920-1200x800.jpg",
+            "life": "2 days",
+            "varities": [
+                {
+                    "var_name": "Robusta",
+                    "var_loc": "Karnataka",
+                    "var_price": 36.25,
+                    "var_currency": "INR",
+                    "var_desc": "This variety is also known as Bambegreen and Harichal. The areas of the Western Deep Group are famous mainly for its cultivation.The banana plants can be 3 to 4 meters in height. While their stem is medium thick and thick green. Green fruits develop in them. On an average, each bunch weighs between 25 and 30. Fruits are yellow.",
+                    "var_img": "https://devisriagrofoods.in/wp-content/uploads/2021/05/broccoli-500x500-removebg-preview.png"
+                },
+                {
+                    "var_name": "Rasthali",
+                    "var_loc": "Andhra Pradesh",
+                    "var_price": 22,
+                    "var_currency": "INR",
+                    "var_desc": " Fruits are yellowish green throughout their development, but turn pale yellow to golden yellow after ripening. Fruit is very tasty with a good aroma.",
+                    "var_img": "https://pondymaligai.in/wp-content/uploads/rasthlli.gif"
+                },
+                {
+                    "var_name": "Virupakshi",
+                    "var_loc": "Tamil Nadu",
+                    "var_price": 24,
+                    "var_currency": "INR",
+                    "var_desc": "Virupakshi has the characteristic flavour only when they are cultivated in higher elevation. In the mixed cultivation it is well suited as a shade plant for young coffee. It has many ecotypes like 'Sirumalai' (grown on hills), 'Vannan', 'Kali' etc. well suited for cultivation in plains. ",
+                    "var_img": "https://www.shoppingkart24.com/image/cache/catalog/MSR%20FRUITS%20SATISH%20KUMAR/images-(1)-500x660.jpg"
+                },
+                {
+                    "var_name": "Basrai",
+                    "var_loc": "Maharashtra",
+                    "var_price": 34,
+                    "var_currency": "INR",
+                    "var_desc": ". 'Basrai' is the leading commercial variety of Cavendish group and is a leading commercial variety of Maharashtra.The bunch size, the fruit length and size is quite good though the keeping quality is rather poor. The average bunch weight with 6-7 hands and with about 13 fruits per hand is about 15-25 kg. The thick rind of the fruits retains to some extent the greenish colour even when the fruits are ripe. ",
+                    "var_img": "http://cdn.kalgudi.com/commodities/000000003853_2.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Apple",
+            "taste": "Sweet",
+            "img": "https://static.libertyprim.com/files/familles/pomme-large.jpg?1569271834",
+            "life": "4 days",
+            "varities": [
+                {
+                    "var_name": "Ambri Apple",
+                    "var_loc": "Kashmir Valley",
+                    "var_price": 240,
+                    "var_currency": "INR",
+                    "var_desc": "Pride of the Kashmir valley, these apples have a flat base. The cream flesh texture is crispy and firm with a sharp floral note. The fruit peel has a green-hue, with red stripes. The apple has good keeping quality.",
+                    "var_img": "https://indiagardening.com/wp-content/uploads/2020/07/Ambri-Apple.jpg"
+                },
+                {
+                    "var_name": "Golden Delicious",
+                    "var_loc": "Himachal Pradesh",
+                    "var_price": 250,
+                    "var_currency": "INR",
+                    "var_desc": "As the name signifies, these apples have pale green-yellow skin. The flavor is sweet, making it a staple ingredient of salads, apple butter, and sauce. The texture is semi-firm. It mainly grows in Jammu, Kashmir, and Himachal Pradesh.",
+                    "var_img": "https://indiagardening.com/wp-content/uploads/2020/07/Golden-Delicious.jpg"
+                },
+                {
+                    "var_name": "Granny Smith",
+                    "var_loc": "Himachal Pradesh",
+                    "var_price": 90,
+                    "var_currency": "INR",
+                    "var_desc": "Unlike other apples, granny smith apples have a grass-green peel, with white dots. The crunchy and juicy flesh is tarty-acidic and makes a great choice for processing pies, cakes, and pastries. It mainly grows in Himachal Pradesh and has high levels of antioxidants and phenols.",
+                    "var_img": "https://indiagardening.com/wp-content/uploads/2020/07/Granny-Smith.jpg"
+                },
+                {
+                    "var_name": "Lal Ambri",
+                    "var_loc": "Jammu and Kashmir",
+                    "var_price": 124,
+                    "var_currency": "INR",
+                    "var_desc": "Indigenous to India, this hybrid variety is developed by crossing Red delicious and Ambri apple breeds. The cream-white pulpy flesh has a crisp, tender texture and has a sweet-juicy flavor. The variety comes from Jammu and Kashmir.",
+                    "var_img": "https://indiagardening.com/wp-content/uploads/2020/07/Lal-Ambri-apple.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Mango",
+            "taste": "Sweet/Sour",
+            "img": "https://livekarts.in/wp-content/uploads/2021/05/mango.jpg",
+            "life": "3 days",
+            "varities": [
+                {
+                    "var_name": "Alphonsos Hapoos",
+                    "var_loc": "Ratnagiri, Maharashtra",
+                    "var_price": 275,
+                    "var_currency": "INR",
+                    "var_desc": "Alphonso is internationally loved for its golden yellow appearance and delightful taste, also its aroma. Named after Alfonzo de Albuquerque, this voluptuous king of mango is a summery obsession for mango lovers.",
+                    "var_img": "https://mangoesmumbai.com/wp-content/uploads/2018/02/WhatsApp-Image-2018-01-24-at-10.59.50-PM-1-300x248.jpeg"
+                },
+                {
+                    "var_name": "Kesar Mangoes",
+                    "var_loc": "Gir Junagadh, Gujarat",
+                    "var_price": 200,
+                    "var_currency": "INR",
+                    "var_desc": "Girnar hills of Junagadh are very famous as a land of lions and then the juicy Kesar mangoes of talala. This variety of mango is popularly known as the “queen of mangoes” in INDIA. Kesar mangoes owe their name for their saffron (kesari) appearance and great taste",
+                    "var_img": "https://indiagardening.com/wp-content/uploads/2020/07/Golden-Delicious.jpg"
+                },
+                {
+                    "var_name": "Dashehari Mangoes",
+                    "var_loc": " Lucknow and Malihabad, Uttar Pradesh",
+                    "var_price": 250,
+                    "var_currency": "INR",
+                    "var_desc": "Lucknow the land of Nawabs is equally famous for its royal and Nawabi Dashehari mangoes. North Indian Lucknow along and all its adjoining towns is a very popular belt for its mango. These mangoes are mainly available from mid-May to late August, they are known for their green peels and very delicious taste.",
+                    "var_img": "https://mangoesmumbai.com/wp-content/uploads/2019/03/dasheri-mango-300x242.jpg"
+                },
+                {
+                    "var_name": "Chausa Mangoes",
+                    "var_loc": "Uttar Pradesh",
+                    "var_price": 160,
+                    "var_currency": "INR",
+                    "var_desc": "This is a type of mango found in Uttar pradesh normally in the parts of Harodi. We can say mangoes are beneficial for health but comparatively Chaunsa is very popular for nutritional value and juicy pulp for year around usage at home recipes. Chaunsa comes mostly in June and available upto the month of august.",
+                    "var_img": "https://mangoesmumbai.com/wp-content/uploads/2019/03/chusa-300x213.png"
+                },
+                {
+                    "var_name": "Badami Mangoes",
+                    "var_loc": "Karnataka",
+                    "var_price": 220,
+                    "var_currency": "INR",
+                    "var_desc": "Badami mangoes very famous mango category in Karnataka. It is called Hapus of Karnataka. It is very tasty and delicious. Badami mangoes are very sweetest. It has very much sugary in taste and similar to hapus mangoes. The season for these is usually May to July.",
+                    "var_img": "https://mangoesmumbai.com/wp-content/uploads/2019/03/badami-300x233.jpg"
+                },
+                {
+                    "var_name": "Safeda Mangoes",
+                    "var_loc": "Andhra Pradesh",
+                    "var_price": 150,
+                    "var_currency": "INR",
+                    "var_desc": "Banganpali or Safeda which is also a very widest variety of mango has its origins in Andhra. Generally available from March to July due to suitable climatic conditions, this state is also a premier supplier of high-quality mangoes around other Indian metro cities majorly.",
+                    "var_img": "https://mangoesmumbai.com/wp-content/uploads/2019/03/safeda.jpg"
+                },
+                {
+                    "var_name": "Totapuri Mangoes",
+                    "var_loc": "Bangalore",
+                    "var_price": 240,
+                    "var_currency": "INR",
+                    "var_desc": "These are one hell of a mango with a little thick threads but very nice taste. The mangoes are sweet and even used for pickles when they are raw. The shape is oval and widely eaten within the state. The pulp is little different compared to other varieties as it’s not very juicy but has a thick texture and great taste. ",
+                    "var_img": "https://mangoesmumbai.com/wp-content/uploads/2019/03/totapuri.jpg"
+                },
+                {
+                    "var_name": "Langra mangoes",
+                    "var_loc": "Varanasi",
+                    "var_price": 100,
+                    "var_currency": "INR",
+                    "var_desc": " Langra is quite famous because of its availability and best prices that they are offered at. They have exotic aromas and are available in major metro markets mainly Varanasi. Cultivated by farmers from around the area they are shipped pretty well to other places in the state. If you see the skin tone of langra mangoes is yellowish and very pale gives it a very fresh look and identity.",
+                    "var_img": "https://mangoesmumbai.com/wp-content/uploads/2019/03/langra-300x204.png"
+                }
+            ]
+        },
+        {
+            "name": "Watermelon",
+            "taste": "Sweet",
+            "img": "https://snaped.fns.usda.gov/sites/default/files/seasonal-produce/2018-05/watermelon.jpg",
+            "life": "3 days",
+            "varities": [
+                {
+                    "var_name": "Arka Manik",
+                    "var_loc": "Andhra Pradesh",
+                    "var_price": 200,
+                    "var_currency": "INR",
+                    "var_desc": "Average Weight: 4-6 kgs. Coming in an oval to globular shape, the light green rind of this variety is striped with dark green. The crimson-hued flesh has a granular texture and is sweet in taste.",
+                    "var_img": "https://indiagardening.com/wp-content/uploads/2020/09/Arka-Manik-watermelon.jpg"
+                },
+                {
+                    "var_name": "Vimal",
+                    "var_loc": "Tamil Nadu",
+                    "var_price": 120,
+                    "var_currency": "INR",
+                    "var_desc": "Average Weight: 5-7 kgs. The round watermelons with a black-green rind have crimson-red flesh with a granular texture. It has good keeping quality with a harvesting period of 95-100 days.",
+                    "var_img": "https://indiagardening.com/wp-content/uploads/2020/09/Vimal.jpg"
+                },
+                {
+                    "var_name": "Durgapura Meetha",
+                    "var_loc": "Durgapura, Rajasthan",
+                    "var_price": 300,
+                    "var_currency": "INR",
+                    "var_desc": "Average Weight: 6-8 kgs. Ready to harvest within 110-120 days span, its thick rind is coated with a light green color. The deep red pulp is of excellent flavor.",
+                    "var_img": "https://indiagardening.com/wp-content/uploads/2020/09/Durgapura-meetha-watermelon.jpg"
+                },
+                {
+                    "var_name": "Madhuri 64",
+                    "var_loc": "Andhra Pradesh",
+                    "var_price": 400,
+                    "var_currency": "INR",
+                    "var_desc": "Average Weight: 8-10 kgs. This early maturing, hybrid variety produces an oval-shaped melon. Ripening within the span of 70-75 days, its flesh has a sweet taste, granular texture, and deep red color.",
+                    "var_img": "https://indiagardening.com/wp-content/uploads/2020/09/Madhuri-64.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Kiwi",
+            "taste": "Sweet",
+            "img": "https://solidstarts.com/wp-content/uploads/Kiwi_edited-scaled.jpg",
+            "life": "3 days",
+            "varities": [
+                {
+                    "var_name": "Abbott",
+                    "var_loc": "Himachal Pradesh",
+                    "var_price": 600,
+                    "var_currency": "INR",
+                    "var_desc": "Medium sized fruit, which is oblong and has a brownish skin, with long, soft hair.",
+                    "var_img": "https://www.fruitsinfo.com/fruits-gallery/kiwi-abbot.jpg"
+                },
+                {
+                    "var_name": "Allison",
+                    "var_loc": "Tamil Nadu",
+                    "var_price": 480,
+                    "var_currency": "INR",
+                    "var_desc": "It was one of the most popular varieties of the Kiwifruit, but has lost its ground to the Hayward variety.",
+                    "var_img": "https://www.fruitsinfo.com/fruits-gallery/kiwi-allison.jpg"
+                },
+                {
+                    "var_name": "Bruno",
+                    "var_loc": "Meghalaya",
+                    "var_price": 550,
+                    "var_currency": "INR",
+                    "var_desc": "It is a long fruit, and the shape can be termed as elongated cylindrical.",
+                    "var_img": "https://www.fruitsinfo.com/fruits-gallery/kiwi-Bruno.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Strawberry",
+            "taste": "Sweet",
+            "img": "https://hips.hearstapps.com/clv.h-cdn.co/assets/15/22/1432664914-strawberry-facts1.jpg",
+            "life": "3 days",
+            "varities": [
+                {
+                    "var_name": "Chandler",
+                    "var_loc": "Himachal Pradesh",
+                    "var_price": 20,
+                    "var_currency": "INR",
+                    "var_desc": "This variety provides a harvest for a couple of weeks from February till April. The shape of the berries ranges from conical to wedge. The chandler strawberries are preferred by commercial and home growers alike, thanks to their distinct flavor.",
+                    "var_img": "https://indiagardening.com/wp-content/uploads/2020/07/Chandler.jpg"
+                },
+                {
+                    "var_name": "Torrey",
+                    "var_loc": "Punjab",
+                    "var_price": 30,
+                    "var_currency": "INR",
+                    "var_desc": "AThis variety plant bears large-sized, firm, and red flesh strawberries. The sweet-tart flavor of Torrey is the result of 6% of sugar and 0.97% of acid. Torrey strawberries are best for processing but can be relished raw too.",
+                    "var_img": "https://indiagardening.com/wp-content/uploads/2020/07/Torrey-strawberries-385x283.jpg"
+                },
+                {
+                    "var_name": "Belrubi",
+                    "var_loc": "Maharashtra",
+                    "var_price": 25,
+                    "var_currency": "INR",
+                    "var_desc": "The harvest is available from early February till the late march. It produces large-sized, conical to wedge-shaped fruits in the brilliant cherry shade. The berries have a mild tart-sweet flavor due to acidity 0.98%, sugars 6% content, and harvested from early summers to spring.",
+                    "var_img": "https://indiagardening.com/wp-content/uploads/2020/07/strawberries-Belrubi.jpg"
+                },
+                {
+                    "var_name": "Fern",
+                    "var_loc": "West Bengal",
+                    "var_price": 40,
+                    "var_currency": "INR",
+                    "var_desc": "The conic to wedgy fruit of this day-neutral cultivar ripens earlier. The berries have a pleasantly sweet taste with a slight sour hint. The skin of berries is fleshy, firm, and deep red, with slight hollow from inside.",
+                    "var_img": "https://indiagardening.com/wp-content/uploads/2020/07/Fern-strawberries.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Pineapple",
+            "taste": "Sour",
+            "img": "https://cdn.shopify.com/s/files/1/0228/3837/products/dreamstime_l_30152321_pineapple_2048x.jpg?v=1574671480",
+            "life": "2 days",
+            "varities": [
+                {
+                    "var_name": "Queen",
+                    "var_loc": "Assam and other Northeast states",
+                    "var_price": 300,
+                    "var_currency": "INR",
+                    "var_desc": "This is the most processable variety of pineapples in India and is also used as a table variety. The fruit weighs between 1- 1.5kg When the pineapple is fully mature, the fruit turns golden yellow and internal flesh turns deep golden yellow. ",
+                    "var_img": "https://kj1bcdn.b-cdn.net/media/49279/queen-pineapples.jpg?format=webp&width=1080&upscale=false"
+                },
+                {
+                    "var_name": "Giant Kew",
+                    "var_loc": "West Bengal",
+                    "var_price": 200,
+                    "var_currency": "INR",
+                    "var_desc": "This variety plant bears large-sized, firm, and red flesh strawberries. The sweet-tart flavor of Torrey is the result of 6% of sugar and 0.97% of acid. Torrey strawberries are best for processing but can be relished raw too.",
+                    "var_img": "https://indiagardening.com/wp-content/uploads/2020/07/Torrey-strawberries-385x283.jpg"
+                },
+                {
+                    "var_name": "Mauritius",
+                    "var_loc": "Kerala",
+                    "var_price": 250,
+                    "var_currency": "INR",
+                    "var_desc": "This variety of pineapple is grown in some parts of Kerala and Meghalaya. The Mauritius variety of pineapple is known as the Vazhakulam variety locally.",
+                    "var_img": "https://www.thenewsminute.com/sites/all/var/www/images/Pineapple_fruit(1).jpg"
+                },
+                {
+                    "var_name": "Lakhat and Jaldhup",
+                    "var_loc": "Assam",
+                    "var_price": 230,
+                    "var_currency": "INR",
+                    "var_desc": "These are the local varieties named after the locations where they are produced. These varieties are cultivated for both table and processing purposes Both the varieties belong to the queen variety of pineapple, however, they are smaller in size than a queen. Jaldhup’s sweetness and acidity are perfectly balanced. ",
+                    "var_img": "https://www.factoryrates.in/wp-content/uploads/2020/11/fact-09-5.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Guava",
+            "taste": "Sweet",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Guava_ID.jpg/1200px-Guava_ID.jpg",
+            "life": "5 days",
+            "varities": [
+                {
+                    "var_name": "Allahabad Safeda",
+                    "var_loc": "Uttar Pradesh",
+                    "var_price": 20,
+                    "var_currency": "INR",
+                    "var_desc": "Allahabad Safeda is the most famous and demanded variety of all the available guava varieties. It is used for both table and processing purposes. The tree for this variety grows tall and has an upright growing tendency. Also this variety tree bears a lot of fruits in its long shoots covered in dense foliage. The crown of the tree is expansive and compact, mostly dome shaped.",
+                    "var_img": "https://img2.exportersindia.com/product_images/bc-full/2019/4/6257844/fresh-allahabad-safeda-guava-1556183926-4872810.jpeg"
+                },
+                {
+                    "var_name": "Sardar",
+                    "var_loc": "Uttar Pradesh",
+                    "var_price": 30,
+                    "var_currency": "INR",
+                    "var_desc": "The tree of this variety is lively, spreading and bountiful bearer, weighty fanning type with level crown. Fruits usually are huge and round shaped, primrose yellow skin shading, white fragile flesh and seeds are in bounty and harder than that of allahabad safeda. ",
+                    "var_img": "https://pronomina.store/wp-content/uploads/2020/12/nurserylive-guava-paji.jpg"
+                },
+                {
+                    "var_name": "Shweta",
+                    "var_loc": "Uttar Pradesh",
+                    "var_price": 35,
+                    "var_currency": "INR",
+                    "var_desc": "Tree is semi incredible with medium stature and is a productive carrier. It is an assortment with medium size spherical fruits, velvety white skin with red spots and nearly-white flesh. Fruits are appealing and highly nutritious. ",
+                    "var_img": "https://4.imimg.com/data4/BN/PY/ANDROID-37067367/product-250x250.jpeg"
+                },
+                {
+                    "var_name": "Allahabad Surkha",
+                    "var_loc": "Uttar Pradesh",
+                    "var_price": 20,
+                    "var_currency": "INR",
+                    "var_desc": "t is a remarkable variety of enormous size with pink colour and has pulpy pink flesh. The plants produce up to 120 kg organic products in the 6th year of fruiting. Trees are lively, dome shaped and compact. The organic product is sweet and unequivocally enhanced with a couple of seeds. ",
+                    "var_img": "https://i.ytimg.com/vi/T6u5iCNCOec/maxresdefault.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Orange",
+            "taste": "Sweet",
+            "img": "https://5.imimg.com/data5/IW/CY/MY-46595757/fresh-orange-281kg-29-500x500.png",
+            "life": "3 days",
+            "varities": [
+                {
+                    "var_name": "Ngapur Santra",
+                    "var_loc": "Nagpur, Maharastra",
+                    "var_price": 50,
+                    "var_currency": "INR",
+                    "var_desc": "The fruit has a pockmarked exterior and sweet and juicy pulp. It gives the city of Nagpur its pseudonym Orange City. The fruit available from September to December is Ambiya which has a slightly sour taste",
+                    "var_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Nagpur_orange_article.JPG/330px-Nagpur_orange_article.JPG"
+                },
+                {
+                    "var_name": "Coorg Santra",
+                    "var_loc": "Kodagu Karnataka",
+                    "var_price": 60,
+                    "var_currency": "INR",
+                    "var_desc": "Coorg oranges are regarded as man-made hybrids of mandarins (Citrus reticulata).Greenish-yellow in colour, they have a tight skin and a sweet-sour taste, unlike Nagpur oranges which are known to have loose skin and sweet taste.",
+                    "var_img": "https://www.researchgate.net/profile/Claude-Garcia/publication/260325001/figure/fig3/AS:392428021403654@1470573539455/Coorg-orange-harvest-planters-used-to-grow-orange-as-a-single-crop-It-is-now-grown-in.png"
+                },
+                {
+                    "var_name": "Khasi Santra",
+                    "var_loc": "Meghalaya",
+                    "var_price": 50,
+                    "var_currency": "INR",
+                    "var_desc": "During the month of November, the markets in Meghalaya are coloured with golden orbs — Khasi oranges or the Khasi Mandarin. Just holding one in your hand you get that endearing whiff of the sweet, orangey scent. Dig your thumb into the depression atop its skin to peel it off, a familiar and pleasant citrusy aroma hits you to a mouth-watering frenzy.",
+                    "var_img": "https://rukminim1.flixcart.com/image/416/416/kgb5rbk0/plant-sapling/2/2/f/tangerine-orange-santara-yammi-tasty-fruit-plant-1-plant-palace-original-imafwknkx9bt6sqq.jpeg?q=70"
+                },
+                {
+                    "var_name": "Mudkhed",
+                    "var_loc": "Uttar Pradesh",
+                    "var_price": 60,
+                    "var_currency": "INR",
+                    "var_desc": "This orange is rich in vitamin C, A, B and phosphorus. Orange is consumed fresh or in the form of juice, jam, squash and syrup. It is the main source of peel oil, citric acid and cosmetics which have international market value.",
+                    "var_img": "https://www.agrifarming.in/wp-content/uploads/2015/03/Orange-Farming.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Muskmelon",
+            "taste": "Sweet",
+            "img": "https://post.healthline.com/wp-content/uploads/2019/03/muskmelon-vs-cantaloupe-1200x628-facebook.jpg",
+            "life": "3 days",
+            "varities": [
+                {
+                    "var_name": "Hara Madhu",
+                    "var_loc": "Punjab",
+                    "var_price": 200,
+                    "var_currency": "INR",
+                    "var_desc": "The large fruits of this variety are round in shape and have light yellow skin with strips of green, and have thick pulp, which is very sweet in taste. An average fruit weighs around 1 kg.",
+                    "var_img": "https://www.apnikheti.com/upload/crops/6086idea99muskmelons-387466_960_720.jpg"
+                },
+                {
+                    "var_name": "Durgapura Madhu",
+                    "var_loc": "West Bengal",
+                    "var_price": 320,
+                    "var_currency": "INR",
+                    "var_desc": "This variety produces sweet fruits with light green, medium thick flesh. These fruits are oval in shape, and each fruit weighs around 500-600 grams. They have smooth skin that is yellow-green in color.",
+                    "var_img": "http://raridurgapura.org/image/Varieties-Muskmelon.jpg"
+                },
+                {
+                    "var_name": "Arka Rajhans",
+                    "var_loc": "Banglore",
+                    "var_price": 300,
+                    "var_currency": "INR",
+                    "var_desc": "The variety was first identified in 1975. The fruits are round to oval in shape, with each fruit weighing around 1.0-2.0 kg.  In addition to that, the variety shows tolerance towards powdery mildew.",
+                    "var_img": "https://www.agrifarming.in/wp-content/uploads/2015/05/Cantaloupe-Farming2.jpg"
+                },
+                {
+                    "var_name": "Pusa Rasraj",
+                    "var_loc": "Punjab",
+                    "var_price": 240,
+                    "var_currency": "INR",
+                    "var_desc": "This variety is good for commercial cultivation in Punjab, Haryana, Delhi, Bihar, and Uttar Pradesh.  The fruits have smooth skin, and an average fruit weighs around 800-1000 grams. They are moderately sweet and round in shape.",
+                    "var_img": "https://images-eu.ssl-images-amazon.com/images/I/41rvv0fAmDL._SY300_SX300_QL70_FMwebp_.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Mosami (Sweet Lime)",
+            "taste": "Sweet/Sour",
+            "img": "https://findfresh.in/attachments/shop_images/Mosambi.jpg",
+            "life": "4 days",
+            "varities": [
+                {
+                    "var_name": "Rangpur/Rangapuri",
+                    "var_loc": "Andhra Pradesh",
+                    "var_price": 70,
+                    "var_currency": "INR",
+                    "var_desc": "For Mosambi, Rangpur Lime is the best rootstock. It is highly tolerant to draught, is of good quality and bears a lot of fruits. To ensure budding success, the budding is to be done between January and March or September and October, when there is active growth and good sap flow in the plants.",
+                    "var_img": "https://2.wlimg.com/product_images/bc-full/2020/5/4538795/rangpur-lime-acid-plants-1589016598-5420363.jpeg"
+                },
+                {
+                    "var_name": "Sathgudi",
+                    "var_loc": "Telangan",
+                    "var_price": 60,
+                    "var_currency": "INR",
+                    "var_desc": "This variety produces sweet fruits with light green, medium thick flesh. These fruits are oval in shape, and each fruit weighs around 500-600 grams. They have smooth skin that is yellow-green in color.",
+                    "var_img": "https://5.imimg.com/data5/BC/QN/OU/ANDROID-24327046/prod-20200414-141755607407975020803087-jpg-500x500.jpg"
+                },
+                {
+                    "var_name": "Jemberi",
+                    "var_loc": "Maharashtra",
+                    "var_price": 50,
+                    "var_currency": "INR",
+                    "var_desc": "The stock is sensitive to cold. It has good adaptability to light sandy soils. It is not suitable for wet soils as well as for poorly drained soils. It is more tolerant to salts than sweet orange. Grapefruit trees on Rough lemon are susceptible while orange trees are tolerant to quick decline. Jambheri of Kodur is highly susceptible to dry root caused by Fusarium species when Sathgudi orange is used as scion.",
+                    "var_img": "https://thumbs.dreamstime.com/b/lime-citrus-fruit-lime-citrus-fruit-white-background-169882907.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Grapes",
+            "taste": "Sour",
+            "img": "https://www.aicr.org/wp-content/uploads/2020/01/shutterstock_533487490-640x462.jpg",
+            "life": "3 days",
+            "varities": [
+                {
+                    "var_name": "Thompson Seedless",
+                    "var_loc": "Andhra Pradesh",
+                    "var_price": 60,
+                    "var_currency": "INR",
+                    "var_desc": "Also known as ‘Sultana,’ this seedless variety produces pale green, oval-shaped, and mild-sweet grapes. Its vine has dark green foliage with escorted edgings. The variety features high sugar content and famous for producing raisins.",
+                    "var_img": "https://indiagardening.com/wp-content/uploads/2020/07/Thompson-seedless.jpg"
+                },
+                {
+                    "var_name": "Dilkhush",
+                    "var_loc": "Karnataka",
+                    "var_price": 60,
+                    "var_currency": "INR",
+                    "var_desc": "It is a clone of Anab-e-shahi that shares almost the same features. The variety produces pale green, white seeded grapes with tangy flavor. Karnataka is the major producing state. These grapes are famous for table purposes or raw consumption.",
+                    "var_img": "https://indiagardening.com/wp-content/uploads/2020/07/Dilkhush.jpg"
+                },
+                {
+                    "var_name": "Sharad Seedless",
+                    "var_loc": "Maharashtra",
+                    "var_price": 130,
+                    "var_currency": "INR",
+                    "var_desc": "This table purpose grape variety bears seedless, black-purple berries. The grapes have crisp textured in an oval shape, growing abundantly in the bunch. Rich in vitamin A, C, B6. This variety grows primarily in the state of Maharashtra in India.",
+                    "var_img": "https://indiagardening.com/wp-content/uploads/2020/07/Sharad-seedless.jpeg"
+                },
+                {
+                    "var_name": "Gulabi",
+                    "var_loc": "Maharashtra",
+                    "var_price": 60,
+                    "var_currency": "INR",
+                    "var_desc": "The pink-purple berries of Gulabi are luscious and juicy, grown for table purposes only. Also, the variety features small, spherical, and seeded berries. It grows in various states of India like Maharashtra, Karnataka, and Andhra Pradesh.",
+                    "var_img": "https://indiagardening.com/wp-content/uploads/2020/07/Gulabi.jpg"
+                },
+                {
+                    "var_name": "Bhokri",
+                    "var_loc": "Tamil Nadu",
+                    "var_price": 80,
+                    "var_currency": "INR",
+                    "var_desc": "Bhokri bears medium-sized, golden-yellow hued berries in bunch. The grapes have thick skin and popular for raw consumption. Although it is common in various states of India like Maharashtra, Karnataka, and Telangana, yet the major part of its crop comes from Tamilnadu.",
+                    "var_img": "https://indiagardening.com/wp-content/uploads/2020/07/Bhokri.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Pomegranate",
+            "taste": "Sweet",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Pomegranate_fruit_-_whole_and_piece_with_arils.jpg/1200px-Pomegranate_fruit_-_whole_and_piece_with_arils.jpg",
+            "life": "2 days",
+            "varities": [
+                {
+                    "var_name": "Ganesh",
+                    "var_loc": "Maharashtra",
+                    "var_price": 50,
+                    "var_currency": "INR",
+                    "var_desc": "This pink variety has medium sized seeds and is famous in Maharashtra. ",
+                    "var_img": "https://www.mashrita.com/wp-content/uploads/2017/07/Pomegranate-Ganesh_Mashrita_Nature_Cloud.jpg"
+                },
+                {
+                    "var_name": "Bhagwa",
+                    "var_loc": "Maharashtra",
+                    "var_price": 60,
+                    "var_currency": "INR",
+                    "var_desc": "This variety is a shiny ochre in colour and has deep red seeds in it. It is usually big in size. If cultivated properly, each sapling of this variety can bear up to 30-40 kgs of fruit. It is suitable to grow in Maharashtra and Rajasthan.",
+                    "var_img": "http://cdn.shopify.com/s/files/1/2083/6855/products/221936.jpg?v=1570035845"
+                },
+                {
+                    "var_name": "Mridula",
+                    "var_loc": "Maharashtra",
+                    "var_price": 40,
+                    "var_currency": "INR",
+                    "var_desc": "This deep red variety has a shiny skin. The seeds are deep red in colour and juicy and each fruit can weigh up to 250 to 300 grams.",
+                    "var_img": "https://tiimg.tistatic.com/fp/1/005/984/mridula-pomegranate-283.jpg?tr=n-w341"
+                }
+            ]
+        }
+    ]
+}

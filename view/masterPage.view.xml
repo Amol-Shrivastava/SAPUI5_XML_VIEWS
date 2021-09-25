@@ -1,0 +1,19 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m" controllerName="maven.efl.dev.controller.masterPage">
+
+    <!-- <List id="fruitList" items="{
+        path: "/fruits"    
+    }"> -->
+
+    <List id="fruitList" headerText="{i18n>XTIT_MASTER_LIST}" items="{/fruits}">
+
+        <items>
+            <ObjectListItem title="{name}" icon="{img}" intro="{taste}">
+                <firstStatus>
+                    <ObjectStatus state="Success" text="Shell Life: {life}"></ObjectStatus>
+                </firstStatus>
+            </ObjectListItem>
+        </items>
+    </List>
+
+</mvc:View>

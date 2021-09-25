@@ -1,0 +1,93 @@
+{
+    "_version": "1.60.0",
+    "sap.app": {
+        "id": "maven.efl.dev",
+        "type": "application",
+        "applicationVersion": {
+            "version": "1.35.0"
+        },
+        "i18n": "i18n/i18n.properties",
+        "title": "{{appTitle}}",
+        "description": "{{appDescription}}",
+        "tags": {
+            "keywords": [
+                "fruit cart",
+                "cart",
+                "fruit"
+            ]
+        }
+    },
+    "sap.ui": {
+        "technology": "UI5",
+        "deviceTypes": {
+            "desktop": true,
+            "tablet": true,
+            "phone": true
+        },
+        "supportedThemes": [
+            "sap_fiori_3",
+            "sap_fiori_3_dark"
+        ]
+    },
+    "sap.ui5": {
+        "dependencies": {
+            "minUI5Version": "1.60.0"
+        },
+        "libs": {
+            "sap.m": {}
+        },
+        "resources": {
+            "css": [
+                {
+                    "uri": "styles/styles.css"
+                }
+            ]
+        },
+        "contentDensities": {
+            "compact": true,
+            "cozy": true
+        },
+        "models": {
+            "i18n": {
+                "type": "sap.ui.model.resource.ResourceModel",
+                "settings": {
+                    "bundleUrl": "i18n/i18n.properties"
+                }
+            },
+            "": {
+                "type": "sap.ui.model.json.JSONModel",
+                "uri": "model/data.json"
+            }
+        },
+        "rootView": {
+            "viewName": "maven.efl.dev.view.App",
+            "type": "XML",
+            "id": "idAppView"
+        },
+        "routing": {
+            "config": {
+                "routingClass": "sap.m.Routing.Router",
+                "viewPath": "maven.efl.dev.view",
+                "viewType": "XML",
+                "controlId": "idAppCon",
+                "clearTarget": true
+            },
+            "routes": [
+                {
+                    "pattern": "",
+                    "name": "home",
+                    "target": [
+                        "master"
+                    ]
+                }
+            ],
+            "targets": {
+                "master": {
+                    "viewName": "masterPage",
+                    "id": "idMaster",
+                    "controlAggregation": "masterPages"
+                }
+            }
+        }
+    }
+}
