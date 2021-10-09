@@ -83,7 +83,7 @@
         {
             "name": "Mango",
             "taste": "Sweet/Sour",
-            "img": "https://livekarts.in/wp-content/uploads/2021/05/mango.jpg",
+            "img": "https://plantogram.com/wa-data/public/shop/products/55/06/655/images/1256/1256.750@2x.jpg",
             "life": "3 days",
             "varities": [
                 {
@@ -92,7 +92,7 @@
                     "var_price": 275,
                     "var_currency": "INR",
                     "var_desc": "Alphonso is internationally loved for its golden yellow appearance and delightful taste, also its aroma. Named after Alfonzo de Albuquerque, this voluptuous king of mango is a summery obsession for mango lovers.",
-                    "var_img": "https://mangoesmumbai.com/wp-content/uploads/2018/02/WhatsApp-Image-2018-01-24-at-10.59.50-PM-1-300x248.jpeg"
+                    "var_img": "https://justcakespune.com/wp-content/uploads/2021/01/Online-Devgad-Hapus-Aphonso-Mangoes-in-Pune.jpg"
                 },
                 {
                     "var_name": "Kesar Mangoes",
@@ -100,7 +100,7 @@
                     "var_price": 200,
                     "var_currency": "INR",
                     "var_desc": "Girnar hills of Junagadh are very famous as a land of lions and then the juicy Kesar mangoes of talala. This variety of mango is popularly known as the “queen of mangoes” in INDIA. Kesar mangoes owe their name for their saffron (kesari) appearance and great taste",
-                    "var_img": "https://indiagardening.com/wp-content/uploads/2020/07/Golden-Delicious.jpg"
+                    "var_img": "https://5.imimg.com/data5/KP/BS/MY-1439087/kesar-mango-500x500.jpeg"
                 },
                 {
                     "var_name": "Dashehari Mangoes",
@@ -108,7 +108,7 @@
                     "var_price": 250,
                     "var_currency": "INR",
                     "var_desc": "Lucknow the land of Nawabs is equally famous for its royal and Nawabi Dashehari mangoes. North Indian Lucknow along and all its adjoining towns is a very popular belt for its mango. These mangoes are mainly available from mid-May to late August, they are known for their green peels and very delicious taste.",
-                    "var_img": "https://mangoesmumbai.com/wp-content/uploads/2019/03/dasheri-mango-300x242.jpg"
+                    "var_img": "https://5.imimg.com/data5/FP/TP/SW/SELLER-13063382/dasheri-500x500.png"
                 },
                 {
                     "var_name": "Chausa Mangoes",
@@ -116,7 +116,7 @@
                     "var_price": 160,
                     "var_currency": "INR",
                     "var_desc": "This is a type of mango found in Uttar pradesh normally in the parts of Harodi. We can say mangoes are beneficial for health but comparatively Chaunsa is very popular for nutritional value and juicy pulp for year around usage at home recipes. Chaunsa comes mostly in June and available upto the month of august.",
-                    "var_img": "https://mangoesmumbai.com/wp-content/uploads/2019/03/chusa-300x213.png"
+                    "var_img": "https://5.imimg.com/data5/UW/DS/MY-26818540/fresh-chausa-mango-500x500.jpeg"
                 },
                 {
                     "var_name": "Badami Mangoes",
@@ -124,7 +124,7 @@
                     "var_price": 220,
                     "var_currency": "INR",
                     "var_desc": "Badami mangoes very famous mango category in Karnataka. It is called Hapus of Karnataka. It is very tasty and delicious. Badami mangoes are very sweetest. It has very much sugary in taste and similar to hapus mangoes. The season for these is usually May to July.",
-                    "var_img": "https://mangoesmumbai.com/wp-content/uploads/2019/03/badami-300x233.jpg"
+                    "var_img": "../assests/badami.jpg"
                 },
                 {
                     "var_name": "Safeda Mangoes",

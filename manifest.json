@@ -66,7 +66,7 @@
         },
         "routing": {
             "config": {
-                "routingClass": "sap.m.Routing.Router",
+                "routerClass": "sap.m.routing.Router",
                 "viewPath": "maven.efl.dev.view",
                 "viewType": "XML",
                 "controlId": "idAppCon",
@@ -79,6 +79,14 @@
                     "target": [
                         "master"
                     ]
+                },
+                {
+                    "pattern": "fruit/{index}",
+                    "name": "detail",
+                    "target": [
+                        "master",
+                        "detail"
+                    ]
                 }
             ],
             "targets": {
@@ -86,6 +94,11 @@
                     "viewName": "masterPage",
                     "id": "idMaster",
                     "controlAggregation": "masterPages"
+                },
+                "detail": {
+                    "viewName": "detailPage",
+                    "id": "idDetail",
+                    "controlAggregation": "detailPages"
                 }
             }
         }
