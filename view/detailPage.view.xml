@@ -1,3 +1,9 @@
 <mvc:View xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m" controllerName="maven.efl.dev.controller.detailPage">
+    <Page title="{name}" titleLevel="H1">
+        <HeaderContainer id="detailPage--header">
+            <Image id="detailPage--fruitImgCont" src="{img}" alt="{name}"></Image>
+            <Text text="Fresh until: {life}"></Text>
+        </HeaderContainer>
+    </Page>
 </mvc:View>

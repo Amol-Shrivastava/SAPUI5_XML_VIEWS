@@ -39,6 +39,7 @@ sap.ui.define(
 
       selectItem: function (oEvent) {
         const item = oEvent.getParameter("listItem");
+        // console.log(item)
         const sPath = item.getBindingContext().getPath();
 
         const sPathArr = sPath.split("/");
