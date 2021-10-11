@@ -9,3 +9,15 @@ body {
   font-size: 62.5%;
   color: #333;
 }
+
+/* header image styling */
+#__xmlview1--detailPage--fruitImgCont {
+  margin: 1rem;
+}
+
+/* header text styling */
+#__text1 {
+  max-width: 800px;
+  line-height: 1.5;
+  font-size: 0.9rem;
+}

@@ -1,9 +1,43 @@
 <mvc:View xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m" controllerName="maven.efl.dev.controller.detailPage">
     <Page title="{name}" titleLevel="H1">
-        <HeaderContainer id="detailPage--header">
-            <Image id="detailPage--fruitImgCont" src="{img}" alt="{name}"></Image>
-            <Text text="Fresh until: {life}"></Text>
-        </HeaderContainer>
+        <HBox id="detailPage--header" alignItems="Center" justifyContent="Start">
+            <Image id="detailPage--fruitImgCont" src="{img}" alt="{name}" height="100px" width="110px" mode="Image"></Image>
+            <Text text="{benefits}"></Text>
+        </HBox>
+
+        <IconTabBar id="detailPage--iconBar">
+            <items>
+                <IconTabFilter text="{varities/0/var_name}" key="{varities/0/var_name}">
+                    <ObjectHeader icon="{varities/0/var_img}" title="{varities/0/var_name}" number="Price: {varities/0/var_price}{varities/0/var_currency}"></ObjectHeader>
+                </IconTabFilter>
+                <IconTabFilter text="{varities/1/var_name}" key="{varities/1/var_name}">
+                    <ObjectHeader icon="{varities/1/var_img}" title="{varities/1/var_name}" number="Price: {varities/1/var_price}{varities/1/var_currency}"></ObjectHeader>
+                </IconTabFilter>
+                <IconTabFilter text="{varities/2/var_name}" key="{varities/2/var_name}">
+                    <ObjectHeader icon="{varities/2/var_img}" title="{varities/2/var_name}" number="Price: {varities/2/var_price}{varities/2/var_currency}"></ObjectHeader>
+
+                </IconTabFilter>
+                <IconTabFilter text="{varities/3/var_name}" key="{varities/3/var_name}">
+                    <ObjectHeader icon="{varities/3/var_img}" title="{varities/3/var_name}" number="Price: {varities/3/var_price}{varities/3/var_currency}"></ObjectHeader>
+
+                </IconTabFilter>
+                <IconTabFilter text="{varities/4/var_name}" key="{varities/4/var_name}">
+                    <ObjectHeader icon="{varities/4/var_img}" title="{varities/4/var_name}" number="Price: {varities/4/var_price}{varities/4/var_currency}"></ObjectHeader>
+
+                </IconTabFilter>
+                <IconTabFilter text="{varities/5/var_name}" key="{varities/5/var_name}">
+                    <ObjectHeader icon="{varities/5/var_img}" title="{varities/5/var_name}" number="Price: {varities/5/var_price}{varities/5/var_currency}"></ObjectHeader>
+
+                </IconTabFilter>
+                <IconTabFilter text="{varities/6/var_name}" key="{varities/6/var_name}">
+                    <ObjectHeader icon="{varities/6/var_img}" title="{varities/6/var_name}" number="Price: {varities/6/var_price}{varities/6/var_currency}"></ObjectHeader>
+                </IconTabFilter>
+                <IconTabFilter text="{varities/7/var_name}" key="{varities/7/var_name}">
+                    <ObjectHeader icon="{varities/7/var_img}" title="{varities/7/var_name}" number="Price: {varities/7/var_price}{varities/7/var_currency}"></ObjectHeader>
+                </IconTabFilter>
+
+            </items>
+        </IconTabBar>
     </Page>
 </mvc:View>

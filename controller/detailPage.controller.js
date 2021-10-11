@@ -17,7 +17,7 @@ sap.ui.define(
         let fruitId = oEvent.getParameter("arguments").index;
         console.log(`fruit Id : ${fruitId}`);
 
-        let sPath = `/fruit/${fruitId}`;
+        let sPath = `/fruits/${fruitId}`;
 
         this.getView().bindElement(sPath);
       },

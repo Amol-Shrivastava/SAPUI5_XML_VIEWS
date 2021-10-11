@@ -5,6 +5,7 @@
             "taste": "Sweet",
             "img": "https://cdn1.sph.harvard.edu/wp-content/uploads/sites/30/2018/08/bananas-1354785_1920-1200x800.jpg",
             "life": "2 days",
+            "benefits": "A medium banana gives you 450 milligrams, which is 13% of what you need every day. This mineral is a big player in heart health. Potassium-rich foods help manage your blood pressure because they help you get rid of more sodium when you pee. Potassium also relaxes the walls of your blood vessels, which helps lower your BP. ",
             "varities": [
                 {
                     "var_name": "Robusta",
@@ -45,6 +46,7 @@
             "taste": "Sweet",
             "img": "https://static.libertyprim.com/files/familles/pomme-large.jpg?1569271834",
             "life": "4 days",
+            "benefits": "Apples can do a lot for you, thanks to plant chemicals called flavonoids. And they have pectin, a fiber that breaks down in your gut. If you take off the apple’s skin before eating it, you won’t get as much of the fiber or flavonoids. The fiber can slow digestion so you feel fuller after eating. This can keep you from overeating. Eating fiber-rich foods helps control symptoms and lessens the effects of acid reflux.",
             "varities": [
                 {
                     "var_name": "Ambri Apple",
@@ -85,6 +87,7 @@
             "taste": "Sweet/Sour",
             "img": "https://plantogram.com/wa-data/public/shop/products/55/06/655/images/1256/1256.750@2x.jpg",
             "life": "3 days",
+            "benefits": "Mangos have been an important crop in India for millennia. The vitamins, minerals, and antioxidants in mangos can provide important health benefits. For example, vitamin K helps your blood clot effectively and helps prevent anemia. It also plays an important role in helping strengthen your bones.",
             "varities": [
                 {
                     "var_name": "Alphonsos Hapoos",
@@ -157,6 +160,7 @@
             "taste": "Sweet",
             "img": "https://snaped.fns.usda.gov/sites/default/files/seasonal-produce/2018-05/watermelon.jpg",
             "life": "3 days",
+            "benefits": "The cheery red color comes from lycopene, an antioxidant. Studies show it may help curb your risk of cancer and diabetes as part of a healthy lifestyle. Watermelon has more of this nutrient than any other fruit or veggie -- even tomatoes",
             "varities": [
                 {
                     "var_name": "Arka Manik",
@@ -197,6 +201,7 @@
             "taste": "Sweet",
             "img": "https://solidstarts.com/wp-content/uploads/Kiwi_edited-scaled.jpg",
             "life": "3 days",
+            "benefits": "Kiwis are high in Vitamin C  and dietary fiber and provide a variety of health benefits. This tart fruit can support heart health, digestive health, and immunity. The kiwi is a healthy choice of fruit and is rich with vitamins and antioxidants.",
             "varities": [
                 {
                     "var_name": "Abbott",
@@ -229,6 +234,7 @@
             "taste": "Sweet",
             "img": "https://hips.hearstapps.com/clv.h-cdn.co/assets/15/22/1432664914-strawberry-facts1.jpg",
             "life": "3 days",
+            "benefits": "The heart-shaped silhouette of the strawberry is the first clue that this fruit is good for you. These potent little packages protect your heart, increase HDL (good) cholesterol, lower your blood pressure, and guard against cancer. Packed with vitamins, fiber, and particularly high levels of antioxidants known as polyphenols, strawberries are a sodium-free, fat-free, cholesterol-free, low-calorie food.",
             "varities": [
                 {
                     "var_name": "Chandler",
@@ -269,6 +275,7 @@
             "taste": "Sour",
             "img": "https://cdn.shopify.com/s/files/1/0228/3837/products/dreamstime_l_30152321_pineapple_2048x.jpg?v=1574671480",
             "life": "2 days",
+            "benefits": "Despite its rough exterior, the pineapple is a symbol of welcome and hospitality. The mineral manganese plays an essential role in the way your body metabolizes food, clots blood, and keeps your bones healthy. Pineapples are the only known food source of bromelain, a combination of enzymes that digest protein. That’s why pineapple works as a meat tenderizer: The bromelain breaks down the protein and softens the meat.",
             "varities": [
                 {
                     "var_name": "Queen",
@@ -309,6 +316,7 @@
             "taste": "Sweet",
             "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Guava_ID.jpg/1200px-Guava_ID.jpg",
             "life": "5 days",
+            "benefits": "Guava is loaded with nutrients. Not only does it have more Vitamin C than oranges, guava is also rich in other antioxidants, and has been shown to have a number of great health benefits. One of the key nutrients found in guava is fiber. Fiber has been shown to help with digestion by both solidifying and softening stool. This can ease the symptoms of both diarrhea and constipation. ",
             "varities": [
                 {
                     "var_name": "Allahabad Safeda",
@@ -349,6 +357,7 @@
             "taste": "Sweet",
             "img": "https://5.imimg.com/data5/IW/CY/MY-46595757/fresh-orange-281kg-29-500x500.png",
             "life": "3 days",
+            "benefits": "Protects your cells from damage. Helps your body make collagen, a protein that heals wounds and gives you smoother skin. Makes it easier to absorb iron to fight anemia . Boosts your immune system, your body's defense against germs. Slows the advance of age-related macular degeneration (AMD), a leading cause of vision loss. Helps fight cancer-causing free radicals",
             "varities": [
                 {
                     "var_name": "Ngapur Santra",
@@ -389,6 +398,7 @@
             "taste": "Sweet",
             "img": "https://post.healthline.com/wp-content/uploads/2019/03/muskmelon-vs-cantaloupe-1200x628-facebook.jpg",
             "life": "3 days",
+            "benefits": "Muskmelon or Kharbooja, also called as “Madhuphala” in Ayurveda is a nutrient-rich fruit. Muskmelon seeds are also rich in nutrients and have been used for various culinary purposes. It is a beneficial summer fruit as it has cooling and diuretic properties that help to keep the body hydrated as well as eliminate toxins from the body. Eating Muskmelon might help to manage blood pressure as it is rich in potassium which helps to relax the blood vessels and improve blood flow",
             "varities": [
                 {
                     "var_name": "Hara Madhu",
@@ -429,6 +439,7 @@
             "taste": "Sweet/Sour",
             "img": "https://findfresh.in/attachments/shop_images/Mosambi.jpg",
             "life": "4 days",
+            "benefits": "Sweet lime though belongs to the family of citrus fruits is low on acidic content and boasts 50 mg of vitamin C, for each serving which is almost 22% of the daily dietary requirement. This tasty fruit also offers ample amounts of iron, calcium, vitamin B6, thiamine, potassium besides niacin, riboflavin, phosphorous, magnesium in negligible amounts. The daily intake of sweet lime as a whole fruit or juice improves hunger, especially in those suffering from anorexia – an eating disorder that leads to extreme loss of body weight.",
             "varities": [
                 {
                     "var_name": "Rangpur/Rangapuri",
@@ -461,6 +472,7 @@
             "taste": "Sour",
             "img": "https://www.aicr.org/wp-content/uploads/2020/01/shutterstock_533487490-640x462.jpg",
             "life": "3 days",
+            "benefits": "Grapes are a good source of potassium, a mineral that helps balance fluids in your body. Potassium can help bring down high blood pressure and lower your risk of heart disease and stroke. Grape seeds are rich in vitamin E, which helps your skin stay smooth and hydrated.",
             "varities": [
                 {
                     "var_name": "Thompson Seedless",
@@ -509,6 +521,7 @@
             "taste": "Sweet",
             "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Pomegranate_fruit_-_whole_and_piece_with_arils.jpg/1200px-Pomegranate_fruit_-_whole_and_piece_with_arils.jpg",
             "life": "2 days",
+            "benefits": "Pomegranates can have up to three times more antioxidants than green tea or red wine. Antioxidants protect cells from damage, prevent diseases — such as cancer — and reduce inflammation and the effects of aging. Initial studies have revealed that people with type 2 diabetes who began to drink pomegranate juice showed an improvement in insulin resistance.",
             "varities": [
                 {
                     "var_name": "Ganesh",
