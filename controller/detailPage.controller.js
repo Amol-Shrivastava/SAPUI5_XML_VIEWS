@@ -19,6 +19,16 @@ sap.ui.define(
 
         let sPath = `/fruits/${fruitId}`;
 
+        if (fruitId != 2) {
+          this.getView().byId("filter_6").setVisible(false);
+          this.getView().byId("filter_7").setVisible(false);
+          this.getView().byId("filter_8").setVisible(false);
+        } else if (fruitId === 4 || fruitId === 10 || fruitId === 12) {
+          this.getView().byId("filter_4").setVisible(false);
+          this.getView().byId("filter_5").setVisible(false);
+          this.getView().byId("filter_6").setVisible(false);
+        }
+
         this.getView().bindElement(sPath);
       },
     });
