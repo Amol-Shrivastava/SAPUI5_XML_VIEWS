@@ -9,32 +9,156 @@
         <IconTabBar id="detailPage--iconBar">
             <items>
                 <IconTabFilter text="{varities/0/var_name}" key="{varities/0/var_name}">
-                    <ObjectHeader icon="{varities/0/var_img}" title="{varities/0/var_name}" number="Price: {varities/0/var_price}{varities/0/var_currency}"></ObjectHeader>
+                    <!-- <ObjectHeader icon="{varities/0/var_img}" title="{varities/0/var_name}" number="Price: {varities/0/var_price}{varities/0/var_currency}"></ObjectHeader> -->
+
+                    <HBox alignItems="Center" justifyContent="SpaceBetween">
+                        <Title text="{varities/0/var_name}"/>
+                        <Text text="Price: {varities/0/var_price} {varities/0/var_currency}"/>
+                    </HBox>
+
+                    <Text text="{varities/0/var_desc}"/>
+                    <HBox alignContent="Center">
+                        <Label text="Found Majorly In: "></Label>
+                        <Text text="{varities/0/var_loc}"/>
+                    </HBox>
+
+                    <VBox alignItems="Center" justifyContent="Center">
+                        <Image width="200px" height="200px" src="{varities/0/var_img}" alt="{varities/0/var_name}"/>
+                    </VBox>
                 </IconTabFilter>
                 <IconTabFilter text="{varities/1/var_name}" key="{varities/1/var_name}">
-                    <ObjectHeader icon="{varities/1/var_img}" title="{varities/1/var_name}" number="Price: {varities/1/var_price}{varities/1/var_currency}"></ObjectHeader>
+                    <!-- <ObjectHeader icon="{varities/1/var_img}" title="{varities/1/var_name}" number="Price: {varities/1/var_price}{varities/1/var_currency}"></ObjectHeader> -->
+
+                    <HBox alignItems="Center" justifyContent="SpaceBetween">
+                        <Title text="{varities/1/var_name}"/>
+                        <Text text="Price: {varities/1/var_price} {varities/1/var_currency}"/>
+                    </HBox>
+
+                    <Text text="{varities/1/var_desc}"/>
+                    <HBox alignContent="Center">
+                        <Label text="Found Majorly In: "></Label>
+                        <Text text="{varities/1/var_loc}"/>
+                    </HBox>
+
+                    <VBox alignItems="Center" justifyContent="Center">
+                        <Image width="200px" height="200px" src="{varities/1/var_img}" alt="{varities/1/var_name}"/>
+                    </VBox>
+
                 </IconTabFilter>
                 <IconTabFilter text="{varities/2/var_name}" key="{varities/2/var_name}">
-                    <ObjectHeader icon="{varities/2/var_img}" title="{varities/2/var_name}" number="Price: {varities/2/var_price}{varities/2/var_currency}"></ObjectHeader>
+                    <!-- <ObjectHeader icon="{varities/2/var_img}" title="{varities/2/var_name}" number="Price: {varities/2/var_price}{varities/2/var_currency}"></ObjectHeader> -->
+
+                    <HBox alignItems="Center" justifyContent="SpaceBetween">
+                        <Title text="{varities/2/var_name}"/>
+                        <Text text="Price: {varities/2/var_price} {varities/2/var_currency}"/>
+                    </HBox>
+
+                    <Text text="{varities/2/var_desc}"/>
+                    <HBox alignContent="Center">
+                        <Label text="Found Majorly In: "></Label>
+                        <Text text="{varities/2/var_loc}"/>
+                    </HBox>
+
+                    <VBox alignItems="Center" justifyContent="Center">
+                        <Image width="200px" height="200px" src="{varities/2/var_img}" alt="{varities/2/var_name}"/>
+                    </VBox>
 
                 </IconTabFilter>
                 <IconTabFilter text="{varities/3/var_name}" key="{varities/3/var_name}">
-                    <ObjectHeader icon="{varities/3/var_img}" title="{varities/3/var_name}" number="Price: {varities/3/var_price}{varities/3/var_currency}"></ObjectHeader>
+                    <!-- <ObjectHeader icon="{varities/3/var_img}" title="{varities/3/var_name}" number="Price: {varities/3/var_price}{varities/3/var_currency}"></ObjectHeader> -->
+
+                    <HBox alignItems="Center" justifyContent="SpaceBetween">
+                        <Title text="{varities/3/var_name}"/>
+                        <Text text="Price: {varities/3/var_price} {varities/3/var_currency}"/>
+                    </HBox>
+
+                    <Text text="{varities/3/var_desc}"/>
+                    <HBox alignContent="Center">
+                        <Label text="Found Majorly In: "></Label>
+                        <Text text="{varities/3/var_loc}"/>
+                    </HBox>
+
+                    <VBox alignItems="Center" justifyContent="Center">
+                        <Image width="200px" height="200px" src="{varities/3/var_img}" alt="{varities/3/var_name}"/>
+                    </VBox>
 
                 </IconTabFilter>
                 <IconTabFilter text="{varities/4/var_name}" key="{varities/4/var_name}">
-                    <ObjectHeader icon="{varities/4/var_img}" title="{varities/4/var_name}" number="Price: {varities/4/var_price}{varities/4/var_currency}"></ObjectHeader>
+                    <!-- <ObjectHeader icon="{varities/4/var_img}" title="{varities/4/var_name}" number="Price: {varities/4/var_price}{varities/4/var_currency}"></ObjectHeader> -->
+
+                    <HBox alignItems="Center" justifyContent="SpaceBetween">
+                        <Title text="{varities/4/var_name}"/>
+                        <Text text="Price: {varities/4/var_price} {varities/4/var_currency}"/>
+                    </HBox>
+
+                    <Text text="{varities/4/var_desc}"/>
+                    <HBox alignContent="Center">
+                        <Label text="Found Majorly In: "></Label>
+                        <Text text="{varities/4/var_loc}"/>
+                    </HBox>
+
+                    <VBox alignItems="Center" justifyContent="Center">
+                        <Image width="200px" height="200px" src="{varities/4/var_img}" alt="{varities/4/var_name}"/>
+                    </VBox>
+
 
                 </IconTabFilter>
                 <IconTabFilter text="{varities/5/var_name}" key="{varities/5/var_name}">
-                    <ObjectHeader icon="{varities/5/var_img}" title="{varities/5/var_name}" number="Price: {varities/5/var_price}{varities/5/var_currency}"></ObjectHeader>
+                    <!-- <ObjectHeader icon="{varities/5/var_img}" title="{varities/5/var_name}" number="Price: {varities/5/var_price}{varities/5/var_currency}"></ObjectHeader> -->
+
+                    <HBox alignItems="Center" justifyContent="SpaceBetween">
+                        <Title text="{varities/5/var_name}"/>
+                        <Text text="Price: {varities/5/var_price} {varities/5/var_currency}"/>
+                    </HBox>
+
+                    <Text text="{varities/5/var_desc}"/>
+                    <HBox alignContent="Center">
+                        <Label text="Found Majorly In: "></Label>
+                        <Text text="{varities/5/var_loc}"/>
+                    </HBox>
+
+                    <VBox alignItems="Center" justifyContent="Center">
+                        <Image width="200px" height="200px" src="{varities/5/var_img}" alt="{varities/5/var_name}"/>
+                    </VBox>
+
 
                 </IconTabFilter>
                 <IconTabFilter text="{varities/6/var_name}" key="{varities/6/var_name}">
-                    <ObjectHeader icon="{varities/6/var_img}" title="{varities/6/var_name}" number="Price: {varities/6/var_price}{varities/6/var_currency}"></ObjectHeader>
+                    <!-- <ObjectHeader icon="{varities/6/var_img}" title="{varities/6/var_name}" number="Price: {varities/6/var_price}{varities/6/var_currency}"></ObjectHeader> -->
+
+                    <HBox alignItems="Center" justifyContent="SpaceBetween">
+                        <Title text="{varities/6/var_name}"/>
+                        <Text text="Price: {varities/6/var_price} {varities/6/var_currency}"/>
+                    </HBox>
+
+                    <Text text="{varities/6/var_desc}"/>
+                    <HBox alignContent="Center">
+                        <Label text="Found Majorly In: "></Label>
+                        <Text text="{varities/6/var_loc}"/>
+                    </HBox>
+
+                    <VBox alignItems="Center" justifyContent="Center">
+                        <Image width="200px" height="200px" src="{varities/6/var_img}" alt="{varities/6/var_name}"/>
+                    </VBox>
+
                 </IconTabFilter>
                 <IconTabFilter text="{varities/7/var_name}" key="{varities/7/var_name}">
-                    <ObjectHeader icon="{varities/7/var_img}" title="{varities/7/var_name}" number="Price: {varities/7/var_price}{varities/7/var_currency}"></ObjectHeader>
+                    <!-- <ObjectHeader icon="{varities/7/var_img}" title="{varities/7/var_name}" number="Price: {varities/7/var_price}{varities/7/var_currency}"></ObjectHeader> -->
+
+                    <HBox alignItems="Center" justifyContent="SpaceBetween">
+                        <Title text="{varities/7/var_name}"/>
+                        <Text text="Price: {varities/7/var_price} {varities/7/var_currency}"/>
+                    </HBox>
+
+                    <Text text="{varities/7/var_desc}"/>
+                    <HBox alignContent="Center">
+                        <Label text="Found Majorly In: "></Label>
+                        <Text text=" {varities/7/var_loc}"/>
+                    </HBox>
+
+                    <VBox alignItems="Center" justifyContent="Center">
+                        <Image width="200px" height="200px" src="{varities/7/var_img}" alt="{varities/7/var_name}"/>
+                    </VBox>
                 </IconTabFilter>
 
             </items>

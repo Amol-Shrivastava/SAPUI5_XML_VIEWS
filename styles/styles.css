@@ -21,3 +21,31 @@ body {
   line-height: 1.5;
   font-size: 0.9rem;
 }
+
+/* Creating space using fruit title */
+#__title0,
+#__title1,
+#__title2,
+#__title3,
+#__title4,
+#__title5,
+#__title6,
+#__title7 {
+  margin: 1rem 0;
+  text-decoration: underline;
+  font-weight: bolder;
+  font-size: 1.5rem;
+}
+
+/* Creating space using margin for fruit location */
+#__hbox1,
+#__hbox2,
+#__hbox3,
+#__hbox4,
+#__hbox5,
+#__hbox6,
+#__hbox7,
+#__hbox8,
+#__hbox9 {
+  margin: 1rem 0;
+}
