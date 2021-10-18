@@ -1,36 +1,12 @@
 /* jshint esversion: 6 */
-// sap.ui.define(['maven/efl/dev/controller/BaseController'], function (BaseController) {
-//     return BaseController.extend("maven.efl.dev.controller.masterPage", {
-//       onInit: function () {
-//         console.log("Inside MasterPage controller");
-//         // this.oRouter = this.getOwnerComponent().getRouter();
-//       },
-//       selectItem: function(oEvent){
-//         const item = oEvent.getParameter('item');
-//         const sPath = item.getBindingContext().getPath();
-//         const sIndex = sPath.split('/')[sPath.split('/').length - 1];
-
-//         this.makeRoute(sIndex);
-//       }
-
-//       makeRoute: function(sIndex){
-//         console.log(sIndex)
-//       };
-
-//     });
-//   });
-
-//  sap.ui.define(['maven/efl/dev/controller/BaseController'], function (BaseController) {
-//     return BaseController.extend('maven.efl.dev.controller.masterPage', {
-//      onInit: function () {
-//         console.log("Inside MasterPage controller");
-//       }
-//      })
-//    })
 
 sap.ui.define(
-  ["maven/efl/dev/controller/BaseController"],
-  function (BaseController) {
+  [
+    "maven/efl/dev/controller/BaseController",
+    "sap/ui/model/Filter",
+    "sap/ui/model/FilterOperator",
+  ],
+  function (BaseController, Filter, FilterOperator) {
     return BaseController.extend("maven.efl.dev.controller.masterPage", {
       onInit: function () {
         console.log("Inside Master Page Controller");
@@ -52,6 +28,22 @@ sap.ui.define(
         this.oRouter.navTo("detail", {
           index: `${sIndex}`,
         });
+      },
+
+      searchFruit: function (oEvent) {
+        var sQuery = oEvent.getParameter("newValue");
+        // console.log(oEvent.getParameters());
+        // console.log(sQuery);
+
+        var nameFilter = new sap.ui.model.Filter("name", "Contains", sQuery);
+        var tasteFilter = new sap.ui.model.Filter("taste", "Contains", sQuery);
+
+        var oFilters = new Filter({
+          filters: [nameFilter, tasteFilter],
+          and: false,
+        });
+
+        this.getView().byId("fruitList").getBinding("items").filter(oFilters);
       },
     });
   }

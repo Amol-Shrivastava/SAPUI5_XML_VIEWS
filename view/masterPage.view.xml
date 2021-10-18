@@ -2,6 +2,9 @@
     xmlns="sap.m" controllerName="maven.efl.dev.controller.masterPage">
 
     <Page id="masterPage" title="{i18n>XTIT_MASTER_LIST}" titleLevel="H5">
+
+        <SearchField id="masterSearch" placeholder="Search a fruit from the list" liveChange="searchFruit"></SearchField>
+
         <List id="fruitList" items="{path: '/fruits'}" itemPress="selectItem" mode="SingleSelectMaster">
 
             <items>
