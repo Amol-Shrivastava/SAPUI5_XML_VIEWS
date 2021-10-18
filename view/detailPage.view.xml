@@ -108,7 +108,7 @@
 
                     <HBox alignItems="Center" justifyContent="SpaceBetween">
                         <Title text="{varities/5/var_name}"/>
-                        <Text text="Price: {varities/5/var_price} {varities/5/var_currency}"/>
+                        <Title text="Price: {varities/5/var_price} {varities/5/var_currency}"/>
                     </HBox>
 
                     <Text text="{varities/5/var_desc}"/>
